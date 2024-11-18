@@ -1,0 +1,1 @@
+ /Users/starbox7/Documents/GitHub/FunShare/app/.dart_tool/flutter_build/0c3ebcd6483ba6cfa4f6ea773d4f61f2/native_assets.yaml: 
